@@ -1,5 +1,4 @@
-import List from "./List"
-import Button from "./Button"
+import MyComponent from "./MyComponent"
 
 function App() {
 /*
@@ -20,7 +19,7 @@ function App() {
 
   return(
     <>
-    <Button/>
+    <MyComponent />
     </>
   )
 }
