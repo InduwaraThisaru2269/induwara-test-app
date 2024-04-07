@@ -1,3 +1,4 @@
+import Counter from "./CounterProgram"
 import MyComponent from "./MyComponent"
 
 function App() {
@@ -19,7 +20,7 @@ function App() {
 
   return(
     <>
-    <MyComponent />
+    <Counter />
     </>
   )
 }
